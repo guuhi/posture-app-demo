@@ -16,5 +16,3 @@ It helps remind you when you’re slouching or leaning forward for too long
 The app may load slowly when starting. This is normal.
 Please wait a few seconds for the camera and posture model to initialize.
 
-MediaPipe models are large and require some loading time.
-
