@@ -3,7 +3,7 @@
 Improve your sitting habits using real-time AI posture detection.
 
 This desktop app uses MediaPipe and OpenCV to detect your posture through your webcam.
-It helps remind you when you’re slouching or leaning forward for too long
+It helps remind you when you’re slouching or leaning forward for too long.
 
 ## **Download**:
 [Releases](https://github.com/guuhi/posture-app-demo/releases)
